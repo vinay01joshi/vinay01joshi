@@ -24,6 +24,7 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="images/icons/visual-studio-code.png" />
 <img align="left" alt="Azure" width="40px" src="images/icons/azure.png" />
 <img align="left" alt="asp.Net" width="40px" src="images/icons/asp-net.png" />
+<img align="left" alt="python" width="40px" src="images/icons/python.png" />
 
 <!-- Java Reelated Technology ---->
 
