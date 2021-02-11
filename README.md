@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-### Langages, Framework , Libraires and Tools i Used :
+### Programming Languages, Frameworks and Tools i Used :
 
 <!-- Microsoft Technology --->
 <img align="left" alt="c#" width="40px" src="images/icons/c-sharp.png" />
