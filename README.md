@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a Spring Boot, React, Machine Learning!
+- 🔭 I’m currently working on a .Net Core, Microservices, Azure, Node.js,Angular , React, Machine Learning!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing, play video games
 
 ### Connect With me :
