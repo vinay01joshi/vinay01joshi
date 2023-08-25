@@ -63,6 +63,6 @@
 
 [website]: http://vinjo.ml
 [twitter]: https://twitter.com/vinay01joshi
-[linkedin]: https://linkedin.com/in/vinay-joshi
+[linkedin]: https://linkedin.com/in/joshi-vinay
 [github]: https://github.com/vinay01joshi
 [gitlab]: https://gitlab.com/vinay01joshi
