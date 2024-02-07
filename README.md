@@ -61,7 +61,7 @@
 
 <br/>
 
-[website]: https://bento.me/vinjo
+[website]: https://vinjo.co.in
 [twitter]: https://twitter.com/vinay01joshi
 [linkedin]: https://linkedin.com/in/joshi-vinay
 [github]: https://github.com/vinay01joshi
