@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a .Net Core, Microservices, Azure, Node.js,Angular , React, Machine Learning!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing, play video games
 
 ### Connect With me :
